@@ -6,6 +6,6 @@ Estimate of time needed to complete: At the most 30 minutes
 
 Start time: 900
 
-Finish time: _____
+Finish time: 911
 
-Actual time needed to complete: _____
+Actual time needed to complete: 11 minutes
